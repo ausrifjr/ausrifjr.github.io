@@ -38,6 +38,12 @@ footer {
     font-size: .8em;
 }
 
+ul.a { 
+    margin: 20px auto 40px; 
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 ul.posts { 
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
